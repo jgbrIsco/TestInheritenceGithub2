@@ -6,7 +6,7 @@ namespace TestInheritence
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!!!");
+            Console.WriteLine("Hello World!!!!!");
             BC b;
             b = new BC();
             b.Display();
